@@ -1,0 +1,5 @@
+/node_modules
+/dist
+*.pem
+.editorconfig
+.DS_Store
